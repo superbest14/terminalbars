@@ -2,7 +2,7 @@ Example code:
 
     from terminalbars import *
 
-    ultrapropasek(steps=100, duration=5, action="nothing...")
+    ultrapropasek(kroki=100, czas=5, co="nothing...")
 
 
 My library is designed to make progress bars in Python easy and flexible. Whether you need a simple or more advanced bar, this library is ideal.
